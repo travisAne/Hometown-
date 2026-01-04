@@ -6,8 +6,8 @@ body {
 
 /* Header */
 .header {
-    background-color: #879a96;
-    color: rgb(58, 215, 149);
+    background-image: url("Harare.jpg");
+    color: rgb(231, 205, 15);
     padding: 30px;
 }
 
@@ -20,4 +20,9 @@ body {
 .guide {
     background-color: #ec7825;
     padding: 20px;
+}
+
+.guide img {
+    width: 120px;
+    border-radius: 10px;
 }

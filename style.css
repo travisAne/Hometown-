@@ -6,13 +6,18 @@ body {
 
 /* Header */
 .header {
-    background-color: #2b7a4b;
-    color: white;
+    background-color: #879a96;
+    color: rgb(58, 215, 149);
     padding: 30px;
 }
 
 /* Activities */
 .activities {
-    background-color: #eef6f0;
+    background-color: #ebc862;
+    padding: 20px;
+}
+/* Guide */
+.guide {
+    background-color: #ec7825;
     padding: 20px;
 }

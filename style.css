@@ -14,14 +14,18 @@ body {
 /* Activities */
 .activities {
      background: linear-gradient(skyblue, yellow);
-    
+      
     
     padding: 20px;
 
 }
 
 .activity {
+   
+    display: inline-block;
+    width: 200px;
     margin: 20px;
+    vertical-align: top;
 }
 
 .activity img {

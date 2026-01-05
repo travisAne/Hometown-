@@ -6,19 +6,33 @@ body {
 
 /* Header */
 .header {
-    background-image: url("Harare.jpg");
+    background-image: url("images/Harare.jpg");
     color: rgb(231, 205, 15);
     padding: 30px;
 }
 
 /* Activities */
 .activities {
-    background-color: #ebc862;
+     background: linear-gradient(skyblue, yellow);
+    
+    
     padding: 20px;
+
 }
+
+.activity {
+    margin: 20px;
+}
+
+.activity img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
 /* Guide */
 .guide {
-    background-color: #ec7825;
+    background-color: rgb(228, 243, 67);
     padding: 20px;
 }
 

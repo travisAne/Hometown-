@@ -22,11 +22,10 @@ body {
 }
 
 .activity {
-   
     display: inline-block;
-    width: 200px;
-    margin: 20px;
-    vertical-align: top;
+    width: 90%;
+    max-width: 200px;
+    margin: 20px
 }
 
 .activity img {
